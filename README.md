@@ -26,5 +26,3 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## 📧 Submission for TurboML
-This project was built for the TurboML AI Engineer Application Challenge.
